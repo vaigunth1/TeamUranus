@@ -2,7 +2,7 @@ import "./About.css";
 import Navbar from "../Navbar/Navbar";
 import { FaDiscord } from "react-icons/fa";
 import urns from "../../assets/icons/uranusimg.png";
-import socialLinks from "../../data/sociallinks";
+import socialLinks from "../../Data/sociallinks";
 
 import {
   FaGamepad,
