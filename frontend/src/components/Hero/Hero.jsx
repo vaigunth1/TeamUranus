@@ -1,6 +1,6 @@
 import "./Hero.css";
 import { FaYoutube, FaDiscord } from "react-icons/fa";
-import socialLinks from "../../data/socialLinks";
+import socialLinks from "../../Data/socialLinks";
 import icons from "../../assets/icons/uranusimg.png";
 
 function Hero() {
