@@ -18,7 +18,9 @@ app.use(express.json());
 app.use("/api/players", playerRoutes);
 
 app.get("/", (req, res) => {
-  res.send("🚀 Team Uranus API Running");
+    res.json({
+        message: "🚀 Team Uranus API Running"
+    });
 });
 
 const PORT = process.env.PORT || 5000;
