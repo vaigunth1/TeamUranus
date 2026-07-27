@@ -1,5 +1,5 @@
 import "./Footer.css";
-import socialLinks from "../../data/socialLinks";
+import socialLinks from "../../data/sociallinks";
 import { Link } from "react-router-dom";
 
 import {
