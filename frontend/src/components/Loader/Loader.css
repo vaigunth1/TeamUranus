@@ -97,3 +97,21 @@ width:100%;
 }
 
 }
+/* Mobile */
+@media (max-width: 768px) {
+
+  .loader img{
+    width:220px;
+    max-width:70vw;
+    height:auto;
+}
+
+  .loader h1{
+      font-size:32px;
+  }
+
+  .loader p{
+      font-size:14px;
+  }
+
+}
