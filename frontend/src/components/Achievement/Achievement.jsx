@@ -24,7 +24,7 @@ function Achievement() {
     {
       year: "2024",
       title: "Team Founded",
-      description: "Team Uranus officially began its journey."
+      description: "Team Uranus officially began its journey"
     }
   ];
 
