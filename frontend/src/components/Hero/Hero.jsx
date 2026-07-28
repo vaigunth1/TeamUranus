@@ -9,7 +9,7 @@ function Hero() {
 
       <div className="hero-overlay"></div>
 
-      <div className="container hero-content">
+      <div className="hero-content">
 
         <img src={icons} alt="Logo" className="logo-image2"/>
 
