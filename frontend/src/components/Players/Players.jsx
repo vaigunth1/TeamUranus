@@ -19,7 +19,9 @@ function Players() {
   useEffect(() => {
     const fetchPlayers = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/api/players");
+        const res = await axios.get(
+  `${import.meta.env.VITE_API_URL}/players`
+);
         setMembers(res.data);
       } catch (err) {
         console.log(err);
