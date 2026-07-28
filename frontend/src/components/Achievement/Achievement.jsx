@@ -8,18 +8,18 @@ function Achievement() {
   const achievements = [
     {
       year: "2026",
-      title: "Guild Championship",
-      description: "Won the Team Uranus Guild Championship."
+      title: "Esports",
+      description: "Won various championships and made 4+ line-ups in guild"
     },
     {
       year: "2025",
-      title: "10K YouTube Subscribers",
+      title: "3K YouTube Subscribers",
       description: "Reached our first major YouTube milestone."
     },
     {
       year: "2025",
-      title: "Tournament Finalists",
-      description: "Finished Runner-up in the Community League."
+      title: "Instagram",
+      description: "Reached 2.5k on Instagram"
     },
     {
       year: "2024",
