@@ -53,7 +53,7 @@ function About() {
                 Rise Beyond The Stars.
               </h2>
 
-              <h3>
+              <div className="about-description">
 
               <p>
                 Founded in 2025, Team Uranus is a competitive gaming organization built on passion, teamwork, and the pursuit of excellence. What started as a small group of dedicated players has grown into an active esports community focused on competitive gameplay, content creation, and helping talented gamers reach their full potential..
@@ -69,7 +69,7 @@ function About() {
               <p>
                 As we continue to grow, Team Uranus remains committed to discovering new talent, supporting content creators, and creating opportunities for gamers to compete, connect, and achieve greater heights together
               </p>
-              </h3>
+              </div>
 
               <div className="about-features">
 
